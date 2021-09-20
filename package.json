@@ -4,7 +4,7 @@
   "license": "MIT",
   "repository": "https://github.com/Manchenko/Kolesa-Upgrade-FE-2021.git",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --open",
     "build": "vite build",
     "serve": "vite preview",
     "prepare": "npx simple-git-hooks"
